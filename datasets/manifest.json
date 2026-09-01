@@ -1,0 +1,34 @@
+{
+  "algorithm": "AED2-DATASET-v1",
+  "files": [
+    {
+      "bytes": 6859524,
+      "file": "numeros_1M_ordenado.csv",
+      "ordered": true,
+      "rows": 1000000,
+      "sha256": "269d330249778bb3d8e0e5e28307d6a599c2835b9eaf75f11d63b0586d048ceb"
+    },
+    {
+      "bytes": 78595156,
+      "file": "numeros_10M_ordenado.csv",
+      "ordered": true,
+      "rows": 10000000,
+      "sha256": "cb17863306c8eceda07ffe75fbe03a4184086368b46d451836a8018f5c8eea41"
+    },
+    {
+      "bytes": 6859524,
+      "file": "numeros_1M_embaralhado.csv",
+      "ordered": false,
+      "rows": 1000000,
+      "sha256": "b51a8e7175c6af4ef57ec8c7a1ed34c45ae2c8508f0dae4cd64957c5d95a95c2"
+    },
+    {
+      "bytes": 78595156,
+      "file": "numeros_10M_embaralhado.csv",
+      "ordered": false,
+      "rows": 10000000,
+      "sha256": "02d56b6ae710c18ce22d3d6f5ef2278b801d7b378da84006f0cf1b550fb47888"
+    }
+  ],
+  "seed": 1592598566
+}
