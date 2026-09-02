@@ -1,3 +1,6 @@
+# Roger Pereira Soares
+# Heitor Barbosa Hepp
+
 import csv
 
 numeros = []
@@ -6,8 +9,6 @@ with open("./datasets/numeros_1M_ordenado.csv", mode="r") as arq:
   dados_csv = csv.DictReader(arq)
   for linha in dados_csv:
     numeros.append(int(linha['numero']))
-
-teste = []
 
 def interSearch(lista, alvo):
     primeira_pos = 0
